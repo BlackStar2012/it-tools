@@ -14,20 +14,20 @@ home:
   toggleMenu: Menü umschalten
   home: Startseite
   uiLib: UI-Bibliothek
-  support: Unterstütze die Entwicklung von IT-Tools
+  support: Unterstütze die Entwicklung von Toolbox
   buyMeACoffee: Toolbox
   follow:
-    title: Magst du IT-Tools?
+    title: Magst du Toolbox?
     p1: Gib uns einen Stern auf
-    githubRepository: IT-Tools GitHub-Repository
+    githubRepository: Toolbox GitHub-Repository
     p2: oder folge uns auf
-    twitterAccount: IT-Tools Twitter-Konto
+    twitterAccount: Toolbox Twitter-Konto
     thankYou: Vielen Dank!
   nav:
     github: GitHub-Repository
-    githubRepository: IT-Tools GitHub-Repository
+    githubRepository: Toolbox GitHub-Repository
     twitter: Twitter-Konto
-    twitterAccount: IT-Tools Twitter-Konto
+    twitterAccount: Toolbox Twitter-Konto
     about: Über Toolbox
     aboutLabel: Über
     darkMode: Dunkelmodus

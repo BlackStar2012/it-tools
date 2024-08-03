@@ -9,17 +9,17 @@ home:
   uiLib: 'UI Lib'
   buyMeACoffee: 'Toolbox'
   follow:
-    title: 'Vous aimez it-tools ?'
+    title: 'Vous aimez Toolbox ?'
     p1: 'Soutenez-nous avec une star sur'
-    githubRepository: "le dépôt GitHub d'IT-Tools"
+    githubRepository: "le dépôt GitHub d'Toolbox"
     p2: 'ou suivez-nous sur'
-    twitterAccount: "le compte Twitter d'IT-Tools"
+    twitterAccount: "le compte Twitter d'Toolbox"
     thankYou: 'Merci !'
   nav:
     github: 'Dépôt GitHub'
-    githubRepository: "Dépôt GitHub d'IT-Tools"
+    githubRepository: "Dépôt GitHub d'Toolbox"
     twitter: 'Compte Twitter'
-    twitterAccount: "Compte Twitter d'IT-Tools"
+    twitterAccount: "Compte Twitter d'Toolbox"
     about: "À propos d'Toolbox"
     aboutLabel: 'À propos'
     darkMode: 'Mode sombre'

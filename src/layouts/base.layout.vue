@@ -63,7 +63,7 @@ const tools = computed<ToolCategory[]>(() => [
           <div>
             Toolbox
 
-            <c-link target="_blank" rel="noopener" :href="`https://github.com/BlackStar2012/Toolbox/tree/v${version}`">
+            <c-link target="_blank" rel="noopener" :href="`https://github.com/BlackStar2012/Toolbox`">
               v{{ version }}
             </c-link>
 
@@ -73,7 +73,7 @@ const tools = computed<ToolCategory[]>(() => [
                 target="_blank"
                 rel="noopener"
                 type="primary"
-                :href="`https://github.com/BlackStar2012/Toolbox/tree/${commitSha}`"
+                :href="`https://github.com/BlackStar2012/Toolbox`"
               >
                 {{ commitSha }}
               </c-link>
